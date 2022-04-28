@@ -40,10 +40,10 @@ metadata: CB_5
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Andrew Weymouth"
+organization-link: http://a-rains.squarespace.com
+organization-logo-banner: https://images.squarespace-cdn.com/content/v1/552c0f27e4b06d12aaa54427/1644338190419-8CPOJF7PNYDTOFCBF2W7/2.8.2213.png?format=1000w
+organization-logo-nav: http://images.squarespace-cdn.com/content/v1/552c0f27e4b06d12aaa54427/1593829976427-ATJ64NQFMHQX7V4X1K4V/LOGObluenottext.png?format=1500w
 
 
 
