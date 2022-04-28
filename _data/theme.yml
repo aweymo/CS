@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: coll001
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 12em
+home-title-y-padding: 10em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
 
@@ -72,7 +72,7 @@ metadata-facets-fields: "subject,creator,format"
 navbar-color: navbar-light
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-light
+navbar-background: bg-primary
 
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
@@ -83,5 +83,5 @@ bootswatch: # leave blank or comment out for plain bootstrap
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#17a2b8"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+base-font-family: 'Public Sans', sans-serif;
+font-cdn: <link href="https://fonts.googleapis.com/css2?family=Public+Sans&display=swap" rel="stylesheet">
